@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trần Minh Trực</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="full_name">Trần Minh Trực</string>
+    <string name="day_of_birth">10/10/1994</string>
+    <string name="address">Ký túc xá ĐHQG Khu B</string>
+    <string name="email">truc.tm94@gmail.com</string>
+    <string name="phone_number">01684046706</string>
+    <string name="website">https://www.facebook.com/tructran.k7/</string>
+</resources>
