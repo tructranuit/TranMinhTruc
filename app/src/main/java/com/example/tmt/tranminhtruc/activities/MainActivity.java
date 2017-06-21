@@ -72,3 +72,9 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
+
+- Do preparation for Android MDM
+- Build sample Android Settings app
+- Collect basic Android phone's information, installed application, resource usage
+- Basic interaction with I/O devices: Bluetooth, SD card, wifi, GPS,...
+- Use some Android system permissions
